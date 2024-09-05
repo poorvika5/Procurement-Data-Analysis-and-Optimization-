@@ -1,0 +1,249 @@
+Supplier ID,Supplier Name,Country,Industry,Sustainability Score,Digital Maturity Score,Category,Total Spend,Unit Price
+S001,Supplier_001,UK,Packaging,68.73,9.73,IT Services,180561.08,109.96
+S001,Supplier_001,UK,Packaging,68.73,9.73,Logistics,450320.85,297.28499999999997
+S001,Supplier_001,UK,Packaging,68.73,9.73,Manufacturing,695628.23,396.53200000000004
+S001,Supplier_001,UK,Packaging,68.73,9.73,Packaging,983630.84,329.9675
+S001,Supplier_001,UK,Packaging,68.73,9.73,Raw Materials,342923.87,173.02
+S002,Supplier_002,USA,Packaging,97.54,7.98,IT Services,463970.93999999994,185.57333333333335
+S002,Supplier_002,USA,Packaging,97.54,7.98,Logistics,261395.75,227.65
+S002,Supplier_002,USA,Packaging,97.54,7.98,Manufacturing,746128.4299999999,240.44833333333335
+S002,Supplier_002,USA,Packaging,97.54,7.98,Packaging,275780.43,150.34
+S002,Supplier_002,USA,Packaging,97.54,7.98,Raw Materials,215083.44,250.68
+S003,Supplier_003,China,Packaging,86.6,9.46,IT Services,79905.54,108.42
+S003,Supplier_003,China,Packaging,86.6,9.46,Logistics,364710.03,222.97250000000003
+S003,Supplier_003,China,Packaging,86.6,9.46,Manufacturing,614624.46,319.53333333333336
+S003,Supplier_003,China,Packaging,86.6,9.46,Packaging,603114.1799999999,296.8925
+S003,Supplier_003,China,Packaging,86.6,9.46,Raw Materials,708754.6599999999,407.78499999999997
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05,IT Services,786216.29,225.042
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05,Logistics,479236.33,341.265
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05,Manufacturing,881735.76,311.495
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05,Packaging,672321.6799999999,275.845
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05,Raw Materials,704975.17,306.72333333333336
+S005,Supplier_005,UK,Logistics,57.8,6.38,IT Services,634491.84,351.35249999999996
+S005,Supplier_005,UK,Logistics,57.8,6.38,Logistics,149678.75,133.85999999999999
+S005,Supplier_005,UK,Logistics,57.8,6.38,Manufacturing,853973.48,237.78875
+S005,Supplier_005,UK,Logistics,57.8,6.38,Packaging,90059.28,56.67
+S005,Supplier_005,UK,Logistics,57.8,6.38,Raw Materials,1102104.67,231.00714285714284
+S006,Supplier_006,UK,Logistics,57.8,9.3,IT Services,714786.37,165.65666666666667
+S006,Supplier_006,UK,Logistics,57.8,9.3,Logistics,458793.97000000003,193.72250000000003
+S006,Supplier_006,UK,Logistics,57.8,9.3,Manufacturing,739788.35,318.95666666666665
+S006,Supplier_006,UK,Logistics,57.8,9.3,Packaging,430276.94,266.1625
+S006,Supplier_006,UK,Logistics,57.8,9.3,Raw Materials,232749.61,160.71666666666667
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8,IT Services,623224.44,308.2266666666667
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8,Logistics,219547.78,310.91499999999996
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8,Manufacturing,402403.70999999996,216.07
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8,Packaging,1003855.7100000001,210.80428571428573
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8,Raw Materials,301271.58,244.19
+S008,Supplier_008,USA,Logistics,93.31,2.76,IT Services,572907.21,280.53
+S008,Supplier_008,USA,Logistics,93.31,2.76,Logistics,160082.47,223.715
+S008,Supplier_008,USA,Logistics,93.31,2.76,Manufacturing,672978.13,230.95000000000002
+S008,Supplier_008,USA,Logistics,93.31,2.76,Packaging,390477.0,235.685
+S008,Supplier_008,USA,Logistics,93.31,2.76,Raw Materials,565356.85,221.0775
+S009,Supplier_009,India,Raw Materials,80.06,1.41,IT Services,204316.26,379.77
+S009,Supplier_009,India,Raw Materials,80.06,1.41,Logistics,394697.87,343.295
+S009,Supplier_009,India,Raw Materials,80.06,1.41,Manufacturing,225243.13,318.59
+S009,Supplier_009,India,Raw Materials,80.06,1.41,Packaging,455795.46,226.12333333333333
+S009,Supplier_009,India,Raw Materials,80.06,1.41,Raw Materials,680571.28,254.03500000000003
+S010,Supplier_010,USA,Packaging,85.4,3.93,IT Services,975162.0,305.394
+S010,Supplier_010,USA,Packaging,85.4,3.93,Logistics,959615.46,362.705
+S010,Supplier_010,USA,Packaging,85.4,3.93,Manufacturing,726871.9400000001,223.73600000000002
+S010,Supplier_010,USA,Packaging,85.4,3.93,Packaging,574858.6,300.525
+S010,Supplier_010,USA,Packaging,85.4,3.93,Raw Materials,441969.28,476.26
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5,IT Services,267444.30000000005,162.745
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5,Logistics,131539.02000000002,158.575
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5,Manufacturing,539059.6,215.5666666666667
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5,Packaging,378489.76,293.05
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5,Raw Materials,1482963.8800000001,319.93
+S012,Supplier_012,Brazil,Logistics,98.5,3.44,IT Services,1650136.62,386.2966666666666
+S012,Supplier_012,Brazil,Logistics,98.5,3.44,Logistics,1379798.72,323.03428571428566
+S012,Supplier_012,Brazil,Logistics,98.5,3.44,Manufacturing,344816.72,133.3033333333333
+S012,Supplier_012,Brazil,Logistics,98.5,3.44,Packaging,287929.82999999996,323.6366666666667
+S012,Supplier_012,Brazil,Logistics,98.5,3.44,Raw Materials,477102.43000000005,237.63
+S013,Supplier_013,USA,IT Services,91.62,8.46,IT Services,1308356.48,249.98285714285717
+S013,Supplier_013,USA,IT Services,91.62,8.46,Logistics,1016707.12,337.27
+S013,Supplier_013,USA,IT Services,91.62,8.46,Manufacturing,805735.99,293.96500000000003
+S013,Supplier_013,USA,IT Services,91.62,8.46,Packaging,447910.38,212.12
+S013,Supplier_013,USA,IT Services,91.62,8.46,Raw Materials,168041.21,134.91
+S014,Supplier_014,Germany,Logistics,60.62,4.21,IT Services,1633660.25,331.34999999999997
+S014,Supplier_014,Germany,Logistics,60.62,4.21,Logistics,1373886.8900000001,406.49
+S014,Supplier_014,Germany,Logistics,60.62,4.21,Manufacturing,503826.08,277.74
+S014,Supplier_014,Germany,Logistics,60.62,4.21,Packaging,1187898.2,266.33
+S014,Supplier_014,Germany,Logistics,60.62,4.21,Raw Materials,411356.01,233.43999999999997
+S015,Supplier_015,UK,Manufacturing,59.09,3.53,IT Services,185995.16,84.16000000000001
+S015,Supplier_015,UK,Manufacturing,59.09,3.53,Logistics,928222.5800000001,256.2916666666667
+S015,Supplier_015,UK,Manufacturing,59.09,3.53,Manufacturing,157485.08,310.01
+S015,Supplier_015,UK,Manufacturing,59.09,3.53,Packaging,778539.59,244.128
+S015,Supplier_015,UK,Manufacturing,59.09,3.53,Raw Materials,215776.34,433.4
+S016,Supplier_016,Brazil,Logistics,59.17,5.88,IT Services,638226.36,339.854
+S016,Supplier_016,Brazil,Logistics,59.17,5.88,Logistics,719605.0800000001,228.84
+S016,Supplier_016,Brazil,Logistics,59.17,5.88,Manufacturing,396808.27,268.38
+S016,Supplier_016,Brazil,Logistics,59.17,5.88,Packaging,733872.0800000001,340.87
+S016,Supplier_016,Brazil,Logistics,59.17,5.88,Raw Materials,278200.6,185.8775
+S017,Supplier_017,Germany,Packaging,65.21,2.27,IT Services,287589.8,189.7033333333333
+S017,Supplier_017,Germany,Packaging,65.21,2.27,Logistics,725934.6,217.21999999999997
+S017,Supplier_017,Germany,Packaging,65.21,2.27,Manufacturing,584345.76,269.105
+S017,Supplier_017,Germany,Packaging,65.21,2.27,Packaging,440286.49,244.765
+S017,Supplier_017,Germany,Packaging,65.21,2.27,Raw Materials,1302894.8499999999,349.82
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22,IT Services,197130.24,238.08
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22,Logistics,151347.34,433.66
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22,Manufacturing,159938.16,171.24
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22,Packaging,125905.8,133.8
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22,Raw Materials,1068850.42,284.87333333333333
+S019,Supplier_019,Japan,Packaging,71.6,1.67,IT Services,50046.75,282.75
+S019,Supplier_019,Japan,Packaging,71.6,1.67,Logistics,430070.26,262.4225
+S019,Supplier_019,Japan,Packaging,71.6,1.67,Manufacturing,21503.91,70.97
+S019,Supplier_019,Japan,Packaging,71.6,1.67,Packaging,469066.31999999995,395.82
+S019,Supplier_019,Japan,Packaging,71.6,1.67,Raw Materials,598872.95,317.83666666666664
+S020,Supplier_020,USA,Packaging,64.56,9.88,IT Services,513646.56,301.78999999999996
+S020,Supplier_020,USA,Packaging,64.56,9.88,Logistics,126205.91,261.245
+S020,Supplier_020,USA,Packaging,64.56,9.88,Manufacturing,145515.74,159.515
+S020,Supplier_020,USA,Packaging,64.56,9.88,Packaging,78237.7,296.49
+S020,Supplier_020,USA,Packaging,64.56,9.88,Raw Materials,8788.2,11.64
+S021,Supplier_021,Japan,Packaging,80.59,7.95,IT Services,661984.33,194.23666666666668
+S021,Supplier_021,Japan,Packaging,80.59,7.95,Logistics,293831.62,206.99666666666667
+S021,Supplier_021,Japan,Packaging,80.59,7.95,Manufacturing,492695.33999999997,254.72333333333333
+S021,Supplier_021,Japan,Packaging,80.59,7.95,Packaging,504703.51,212.78500000000003
+S021,Supplier_021,Japan,Packaging,80.59,7.95,Raw Materials,775421.39,197.84
+S022,Supplier_022,UK,Manufacturing,56.97,2.79,IT Services,924390.23,265.955
+S022,Supplier_022,UK,Manufacturing,56.97,2.79,Logistics,1066359.62,245.18428571428572
+S022,Supplier_022,UK,Manufacturing,56.97,2.79,Manufacturing,666691.69,278.67
+S022,Supplier_022,UK,Manufacturing,56.97,2.79,Packaging,822022.0,261.41333333333336
+S022,Supplier_022,UK,Manufacturing,56.97,2.79,Raw Materials,359594.20999999996,324.24666666666667
+S023,Supplier_023,China,Manufacturing,64.61,1.05,IT Services,1230350.76,257.80222222222227
+S023,Supplier_023,China,Manufacturing,64.61,1.05,Logistics,574579.0700000001,168.614
+S023,Supplier_023,China,Manufacturing,64.61,1.05,Manufacturing,552869.08,257.988
+S023,Supplier_023,China,Manufacturing,64.61,1.05,Packaging,626710.49,321.048
+S023,Supplier_023,China,Manufacturing,64.61,1.05,Raw Materials,184164.16999999998,197.15666666666667
+S024,Supplier_024,Germany,Packaging,68.32,8.34,IT Services,556952.54,259.75
+S024,Supplier_024,Germany,Packaging,68.32,8.34,Logistics,1101506.5,300.49857142857144
+S024,Supplier_024,Germany,Packaging,68.32,8.34,Packaging,994139.3999999999,215.30166666666665
+S024,Supplier_024,Germany,Packaging,68.32,8.34,Raw Materials,468322.35,274.92
+S025,Supplier_025,South Korea,Logistics,72.8,7.36,IT Services,288830.92,284.365
+S025,Supplier_025,South Korea,Logistics,72.8,7.36,Logistics,1281491.43,322.11333333333334
+S025,Supplier_025,South Korea,Logistics,72.8,7.36,Manufacturing,154477.69,366.9166666666667
+S025,Supplier_025,South Korea,Logistics,72.8,7.36,Packaging,382232.9,120.06
+S025,Supplier_025,South Korea,Logistics,72.8,7.36,Raw Materials,43746.5,124.99
+S026,Supplier_026,China,Packaging,89.26,7.56,IT Services,112988.38,109.50500000000001
+S026,Supplier_026,China,Packaging,89.26,7.56,Logistics,971489.4199999999,322.45
+S026,Supplier_026,China,Packaging,89.26,7.56,Manufacturing,790729.1599999999,339.7266666666667
+S026,Supplier_026,China,Packaging,89.26,7.56,Packaging,935153.6000000001,265.73
+S026,Supplier_026,China,Packaging,89.26,7.56,Raw Materials,63049.32,187.235
+S027,Supplier_027,USA,Manufacturing,59.98,7.94,IT Services,390885.26,200.274
+S027,Supplier_027,USA,Manufacturing,59.98,7.94,Logistics,1248619.41,343.50714285714287
+S027,Supplier_027,USA,Manufacturing,59.98,7.94,Manufacturing,702610.26,308.11199999999997
+S027,Supplier_027,USA,Manufacturing,59.98,7.94,Packaging,764399.78,311.646
+S027,Supplier_027,USA,Manufacturing,59.98,7.94,Raw Materials,246166.47,183.64499999999998
+S028,Supplier_028,USA,IT Services,75.71,1.67,IT Services,518224.07,142.1914285714286
+S028,Supplier_028,USA,IT Services,75.71,1.67,Logistics,574089.26,243.59
+S028,Supplier_028,USA,IT Services,75.71,1.67,Manufacturing,562232.85,242.11
+S028,Supplier_028,USA,IT Services,75.71,1.67,Packaging,704907.2300000001,201.04000000000002
+S028,Supplier_028,USA,IT Services,75.71,1.67,Raw Materials,123717.82,273.48
+S029,Supplier_029,Japan,Packaging,79.62,4.23,IT Services,341731.24,207.89
+S029,Supplier_029,Japan,Packaging,79.62,4.23,Logistics,407631.76,158.55666666666667
+S029,Supplier_029,Japan,Packaging,79.62,4.23,Manufacturing,413101.31,300.1625
+S029,Supplier_029,Japan,Packaging,79.62,4.23,Packaging,381097.4,221.9075
+S029,Supplier_029,Japan,Packaging,79.62,4.23,Raw Materials,556478.15,317.5466666666667
+S030,Supplier_030,Brazil,Packaging,52.32,2.04,IT Services,576906.86,272.48249999999996
+S030,Supplier_030,Brazil,Packaging,52.32,2.04,Logistics,443181.84,130.31
+S030,Supplier_030,Brazil,Packaging,52.32,2.04,Manufacturing,172198.55,190.52666666666664
+S030,Supplier_030,Brazil,Packaging,52.32,2.04,Packaging,604336.87,258.62
+S030,Supplier_030,Brazil,Packaging,52.32,2.04,Raw Materials,427210.97,237.45499999999998
+S031,Supplier_031,Japan,IT Services,80.38,8.77,IT Services,1082852.79,196.73285714285717
+S031,Supplier_031,Japan,IT Services,80.38,8.77,Logistics,464068.31999999995,173.75
+S031,Supplier_031,Japan,IT Services,80.38,8.77,Manufacturing,292378.86,338.7
+S031,Supplier_031,Japan,IT Services,80.38,8.77,Packaging,120818.33,147.74
+S031,Supplier_031,Japan,IT Services,80.38,8.77,Raw Materials,367740.66,216.03
+S032,Supplier_032,UK,Packaging,58.53,6.61,IT Services,902153.72,247.808
+S032,Supplier_032,UK,Packaging,58.53,6.61,Logistics,435693.63,224.995
+S032,Supplier_032,UK,Packaging,58.53,6.61,Manufacturing,411448.41,241.602
+S032,Supplier_032,UK,Packaging,58.53,6.61,Packaging,592946.11,225.01666666666665
+S032,Supplier_032,UK,Packaging,58.53,6.61,Raw Materials,351800.89999999997,191.32999999999998
+S033,Supplier_033,Brazil,IT Services,53.25,3.98,IT Services,432507.28,267.39
+S033,Supplier_033,Brazil,IT Services,53.25,3.98,Logistics,778664.65,240.108
+S033,Supplier_033,Brazil,IT Services,53.25,3.98,Manufacturing,554679.48,234.606
+S033,Supplier_033,Brazil,IT Services,53.25,3.98,Packaging,72686.79000000001,100.95333333333333
+S033,Supplier_033,Brazil,IT Services,53.25,3.98,Raw Materials,1039598.96,286.57
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57,IT Services,499806.74,201.35
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57,Logistics,690345.25,265.108
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57,Manufacturing,1115844.37,337.48333333333335
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57,Packaging,106237.24,177.71
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57,Raw Materials,1373280.66,274.52125
+S035,Supplier_035,India,Packaging,98.28,3.8,IT Services,271100.91000000003,302.08
+S035,Supplier_035,India,Packaging,98.28,3.8,Logistics,851852.54,224.38285714285712
+S035,Supplier_035,India,Packaging,98.28,3.8,Manufacturing,854434.0599999999,379.34
+S035,Supplier_035,India,Packaging,98.28,3.8,Packaging,227338.26,151.265
+S035,Supplier_035,India,Packaging,98.28,3.8,Raw Materials,326456.22,127.04
+S036,Supplier_036,Brazil,Packaging,90.42,3.93,IT Services,118293.12,357.99
+S036,Supplier_036,Brazil,Packaging,90.42,3.93,Logistics,58936.68,297.66
+S036,Supplier_036,Brazil,Packaging,90.42,3.93,Manufacturing,747556.96,256.9871428571428
+S036,Supplier_036,Brazil,Packaging,90.42,3.93,Packaging,418549.03,194.745
+S036,Supplier_036,Brazil,Packaging,90.42,3.93,Raw Materials,675524.14,354.652
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57,IT Services,251919.94999999998,150.96666666666667
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57,Logistics,433473.6,259.185
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57,Manufacturing,673195.9,364.18
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57,Packaging,133337.05000000002,97.95
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57,Raw Materials,766223.69,303.3925
+S038,Supplier_038,Brazil,IT Services,54.88,6.74,IT Services,658056.78,198.8066666666667
+S038,Supplier_038,Brazil,IT Services,54.88,6.74,Logistics,1273623.1400000001,220.24777777777777
+S038,Supplier_038,Brazil,IT Services,54.88,6.74,Manufacturing,381392.95999999996,224.555
+S038,Supplier_038,Brazil,IT Services,54.88,6.74,Packaging,1043229.13,292.914
+S038,Supplier_038,Brazil,IT Services,54.88,6.74,Raw Materials,767338.3,261.2314285714286
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98,IT Services,542093.6799999999,311.1466666666667
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98,Logistics,468937.48,209.41
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98,Manufacturing,535943.02,290.15333333333336
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98,Packaging,729174.69,282.48333333333335
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98,Raw Materials,672972.48,244.57
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25,IT Services,1156006.66,325.10833333333335
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25,Logistics,467440.19,319.0133333333334
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25,Manufacturing,290240.47,179.675
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25,Packaging,845403.8400000001,240.59666666666666
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25,Raw Materials,535425.78,212.13000000000002
+S041,Supplier_041,UK,Raw Materials,56.1,2.08,IT Services,457941.76,194.4333333333333
+S041,Supplier_041,UK,Raw Materials,56.1,2.08,Logistics,346935.24,317.96666666666664
+S041,Supplier_041,UK,Raw Materials,56.1,2.08,Manufacturing,494567.49,321.07599999999996
+S041,Supplier_041,UK,Raw Materials,56.1,2.08,Packaging,304401.4,172.33999999999997
+S041,Supplier_041,UK,Raw Materials,56.1,2.08,Raw Materials,558756.99,360.1566666666667
+S042,Supplier_042,USA,Logistics,74.76,7.42,IT Services,737584.1499999999,249.37599999999998
+S042,Supplier_042,USA,Logistics,74.76,7.42,Logistics,969820.7100000001,300.338
+S042,Supplier_042,USA,Logistics,74.76,7.42,Manufacturing,856441.3300000001,274.5575
+S042,Supplier_042,USA,Logistics,74.76,7.42,Packaging,433053.74,313.36
+S042,Supplier_042,USA,Logistics,74.76,7.42,Raw Materials,434738.44999999995,237.42799999999997
+S043,Supplier_043,Germany,Logistics,51.72,7.85,IT Services,566563.9,289.12666666666667
+S043,Supplier_043,Germany,Logistics,51.72,7.85,Logistics,938424.09,344.32166666666666
+S043,Supplier_043,Germany,Logistics,51.72,7.85,Manufacturing,1049050.42,238.49375
+S043,Supplier_043,Germany,Logistics,51.72,7.85,Packaging,632989.19,411.50666666666666
+S043,Supplier_043,Germany,Logistics,51.72,7.85,Raw Materials,838837.9,328.71666666666664
+S044,Supplier_044,China,IT Services,95.47,6.05,IT Services,484527.55,291.1033333333333
+S044,Supplier_044,China,IT Services,95.47,6.05,Logistics,363525.96,396.525
+S044,Supplier_044,China,IT Services,95.47,6.05,Manufacturing,899518.4400000001,256.232
+S044,Supplier_044,China,IT Services,95.47,6.05,Packaging,1184972.63,227.29666666666668
+S044,Supplier_044,China,IT Services,95.47,6.05,Raw Materials,352256.08,415.685
+S045,Supplier_045,USA,Raw Materials,62.94,7.94,IT Services,105239.16,449.74
+S045,Supplier_045,USA,Raw Materials,62.94,7.94,Logistics,492306.02,349.19
+S045,Supplier_045,USA,Raw Materials,62.94,7.94,Manufacturing,361278.36,361.64
+S045,Supplier_045,USA,Raw Materials,62.94,7.94,Packaging,240438.4,363.2
+S045,Supplier_045,USA,Raw Materials,62.94,7.94,Raw Materials,1397727.96,283.14125
+S046,Supplier_046,Germany,Packaging,83.13,5.44,IT Services,1091521.7,278.5933333333333
+S046,Supplier_046,Germany,Packaging,83.13,5.44,Logistics,515738.61000000004,213.10000000000002
+S046,Supplier_046,Germany,Packaging,83.13,5.44,Manufacturing,808473.9,340.2475
+S046,Supplier_046,Germany,Packaging,83.13,5.44,Packaging,223189.54,341.005
+S046,Supplier_046,Germany,Packaging,83.13,5.44,Raw Materials,1329212.84,362.41400000000004
+S047,Supplier_047,USA,Manufacturing,65.59,5.7,IT Services,623480.47,225.415
+S047,Supplier_047,USA,Manufacturing,65.59,5.7,Logistics,191999.31,137.225
+S047,Supplier_047,USA,Manufacturing,65.59,5.7,Manufacturing,369292.54000000004,214.075
+S047,Supplier_047,USA,Manufacturing,65.59,5.7,Packaging,441033.08999999997,284.89
+S047,Supplier_047,USA,Manufacturing,65.59,5.7,Raw Materials,326212.2,389.34000000000003
+S048,Supplier_048,China,IT Services,76.0,4.85,IT Services,7133.91,11.27
+S048,Supplier_048,China,IT Services,76.0,4.85,Logistics,723107.71,310.0385714285714
+S048,Supplier_048,China,IT Services,76.0,4.85,Manufacturing,756486.39,294.3966666666667
+S048,Supplier_048,China,IT Services,76.0,4.85,Packaging,791678.12,207.745
+S048,Supplier_048,China,IT Services,76.0,4.85,Raw Materials,938484.47,272.3625
+S049,Supplier_049,UK,Manufacturing,77.34,1.23,Logistics,675952.37,286.3066666666667
+S049,Supplier_049,UK,Manufacturing,77.34,1.23,Manufacturing,1293866.48,304.0109090909091
+S049,Supplier_049,UK,Manufacturing,77.34,1.23,Packaging,794212.3400000001,320.84833333333336
+S049,Supplier_049,UK,Manufacturing,77.34,1.23,Raw Materials,37505.64,271.78
+S050,Supplier_050,China,Manufacturing,59.24,1.97,IT Services,704250.5800000001,230.544
+S050,Supplier_050,China,Manufacturing,59.24,1.97,Logistics,485060.39,263.26
+S050,Supplier_050,China,Manufacturing,59.24,1.97,Manufacturing,1016669.2100000001,287.65
+S050,Supplier_050,China,Manufacturing,59.24,1.97,Packaging,1054274.68,320.568
+S050,Supplier_050,China,Manufacturing,59.24,1.97,Raw Materials,1018480.4299999999,288.8275

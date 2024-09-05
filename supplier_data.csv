@@ -1,0 +1,51 @@
+Supplier ID,Supplier Name,Country,Industry,Sustainability Score,Digital Maturity Score
+S001,Supplier_001,UK,Packaging,68.73,9.73
+S002,Supplier_002,USA,Packaging,97.54,7.98
+S003,Supplier_003,China,Packaging,86.6,9.46
+S004,Supplier_004,Germany,Manufacturing,79.93,9.05
+S005,Supplier_005,UK,Logistics,57.8,6.38
+S006,Supplier_006,UK,Logistics,57.8,9.3
+S007,Supplier_007,South Korea,Raw Materials,52.9,1.8
+S008,Supplier_008,USA,Logistics,93.31,2.76
+S009,Supplier_009,India,Raw Materials,80.06,1.41
+S010,Supplier_010,USA,Packaging,85.4,3.93
+S011,Supplier_011,Germany,Manufacturing,51.03,4.5
+S012,Supplier_012,Brazil,Logistics,98.5,3.44
+S013,Supplier_013,USA,IT Services,91.62,8.46
+S014,Supplier_014,Germany,Logistics,60.62,4.21
+S015,Supplier_015,UK,Manufacturing,59.09,3.53
+S016,Supplier_016,Brazil,Logistics,59.17,5.88
+S017,Supplier_017,Germany,Packaging,65.21,2.27
+S018,Supplier_018,Brazil,Raw Materials,76.24,8.22
+S019,Supplier_019,Japan,Packaging,71.6,1.67
+S020,Supplier_020,USA,Packaging,64.56,9.88
+S021,Supplier_021,Japan,Packaging,80.59,7.95
+S022,Supplier_022,UK,Manufacturing,56.97,2.79
+S023,Supplier_023,China,Manufacturing,64.61,1.05
+S024,Supplier_024,Germany,Packaging,68.32,8.34
+S025,Supplier_025,South Korea,Logistics,72.8,7.36
+S026,Supplier_026,China,Packaging,89.26,7.56
+S027,Supplier_027,USA,Manufacturing,59.98,7.94
+S028,Supplier_028,USA,IT Services,75.71,1.67
+S029,Supplier_029,Japan,Packaging,79.62,4.23
+S030,Supplier_030,Brazil,Packaging,52.32,2.04
+S031,Supplier_031,Japan,IT Services,80.38,8.77
+S032,Supplier_032,UK,Packaging,58.53,6.61
+S033,Supplier_033,Brazil,IT Services,53.25,3.98
+S034,Supplier_034,South Korea,Manufacturing,97.44,1.57
+S035,Supplier_035,India,Packaging,98.28,3.8
+S036,Supplier_036,Brazil,Packaging,90.42,3.93
+S037,Supplier_037,Japan,Manufacturing,65.23,7.57
+S038,Supplier_038,Brazil,IT Services,54.88,6.74
+S039,Supplier_039,Japan,Raw Materials,84.21,8.98
+S040,Supplier_040,Brazil,Raw Materials,72.01,5.25
+S041,Supplier_041,UK,Raw Materials,56.1,2.08
+S042,Supplier_042,USA,Logistics,74.76,7.42
+S043,Supplier_043,Germany,Logistics,51.72,7.85
+S044,Supplier_044,China,IT Services,95.47,6.05
+S045,Supplier_045,USA,Raw Materials,62.94,7.94
+S046,Supplier_046,Germany,Packaging,83.13,5.44
+S047,Supplier_047,USA,Manufacturing,65.59,5.7
+S048,Supplier_048,China,IT Services,76.0,4.85
+S049,Supplier_049,UK,Manufacturing,77.34,1.23
+S050,Supplier_050,China,Manufacturing,59.24,1.97
